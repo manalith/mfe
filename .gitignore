@@ -1,0 +1,19 @@
+# Node
+node_modules
+public
+dist
+coverage
+npm-debug.log
+# Idea
+*.iml
+*.ipr
+*.iws
+.idea
+.shelf
+
+# Vim
+*.swp
+*.un~
+
+# MacOS
+.DS_Store
