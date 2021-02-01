@@ -13,7 +13,8 @@
     "customer"
   ],
   "scripts": {
-    "build-package": "webpack --config webpack.package.js"
+    "build-package": "webpack --config webpack.package.js",
+    "start": "node ./scripts/dev-server.js"
   },
   "dependencies": {
     "@storybook/addon-knobs": "^6.0.26",
